@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @adi7ya-n
-- 👀 I’m interested in Computer Networking and Distributed Systems.
+- 👀 I’m interested in Wireless Communication(5G, LTE), IoT, Computer Networking and Distributed Systems.
 - 🌱 I’m currently learning MERN stack!
 - 💞️ I’m looking to collaborate on open source web applications.
 - 📫 How to reach me : Email --> adi7.narayan@gmail.com
